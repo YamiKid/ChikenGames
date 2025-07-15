@@ -133,25 +133,6 @@
 - Мягкие тени (прозрачность 0.1, радиус 6)
 - Типографика SF Pro Rounded
 
-## 🏗 Структура проекта
-
-```
-CluckQuestChicken/
-├── AppDelegate.swift                    # Точка входа приложения
-├── CluckQuestChickenDesignSystem.swift  # Система дизайна и стили
-├── CluckQuestChickenModels.swift        # Модели данных
-├── CluckQuestChickenDataManager.swift   # Хранилище UserDefaults
-├── CluckQuestChickenMainTabBarController.swift # Основная навигация
-├── CluckQuestChickenMenuViewController.swift   # Панель управления фермой
-├── CluckQuestChickenAchievementsViewController.swift # Значки
-├── CluckQuestChickenFactsViewController.swift  # Фермопедия
-├── CluckQuestChickenSettingsViewController.swift # Настройки
-├── CluckQuestChickenGamesViewController.swift  # Центр мини-игр
-├── CluckQuestChickenBugHuntViewController.swift # Игра на SpriteKit
-├── CluckQuestChickenPlaceholderViewControllers.swift # Заглушки
-└── Info.plist                          # Конфигурация приложения
-```
-
 ## 🚀 Начало работы
 
 1. Откройте `CluckQuestChicken.xcodeproj` в Xcode
@@ -183,11 +164,3 @@ CluckQuestChicken/
 - Система управления инвентарем
 - Рыночная лавка с покупаемыми предметами
 - Сезонные события и специальные испытания
-
-## 📄 Лицензия
-
-Этот проект создан в образовательных и развлекательных целях.
-
----
-
-**Превратите свой скромный курятник в легендарную куриную империю веселья и перьев!** 🐔✨ 
